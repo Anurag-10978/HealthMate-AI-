@@ -1,12 +1,9 @@
-# HealthMate-AI-
-A smart healthcare web application called HealthMate AI uses machine learning to make early predictions about conditions like Parkinson's, diabetes, and heart disease. In order to make healthcare quicker, easier, and more preventive, it also has an AI health assistant for symptom analysis, doctor recommendations, and emergency support.
-
 1️⃣ Project Title
  🧠 HealthMate AI 
 
 2️⃣ Short Description
 HealthMate AI is a Machine Learning based web application that predicts multiple diseases such as Diabetes, Heart Disease, and Parkinson’s.  
-It also includes an AI-powered health assistant, doctor consultation module, and emergency support system.
+It also includes an AI-powered health assistant, a doctor consultation module, and an emergency support system.
 
 3️⃣ 🚀 Features
 - Diabetes Prediction
@@ -18,7 +15,6 @@ It also includes an AI-powered health assistant, doctor consultation module, and
 - User-friendly Streamlit UI
 - Fast and accurate results
 
-  
 4️⃣ 🛠️ Technologies Used
 - Python
 - Streamlit
@@ -26,7 +22,6 @@ It also includes an AI-powered health assistant, doctor consultation module, and
 - Pandas & NumPy
 - Google Gemini AI
 - Machine Learning (SVM Model)
-
   
 5️⃣ 📂 Project Structure
 HealthMate-AI/
@@ -36,7 +31,6 @@ HealthMate-AI/
 │── parkinsons_model.sav
 │── requirements.txt
 │── README.md
-
 
 6️⃣ ⚙️ Installation & Run Locally
 
@@ -64,11 +58,9 @@ This project is deployed on Streamlit Cloud and can be accessed from anywhere.
   
 🔟 👨‍💻 Author
 Anurag  
-BCA Final Year Project
-⭐ BONUS (GitHub me shine karega)
 
-Add this at top:
-
+⭐ BONUS
+Add this at the top:
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Deployed-red)
 ![ML](https://img.shields.io/badge/MachineLearning-Enabled-green)
